@@ -15,7 +15,8 @@ This repository contains resources fpr the Ender 5 S1 from firmware configuratio
 
 - [Sonic Pad Source Code](https://github.com/CrealityOfficial/Creality_Sonic_Pad)
 
-  - [Klipper Configuration](https://github.com/MrSpidercat/Ender5-S1/tree/main/Klipper)
+  - [Klipper Configuration](https://github.com/MrSpidercat/Ender5-S1/tree/main/config/klipper)
+
 
 
 
