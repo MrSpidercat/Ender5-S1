@@ -17,7 +17,7 @@
 ### Flashing Firmware
 1. Turn off your printer and remove the SD Card
 2. Setup preferred Klipper interface (e.g. Fluidd, Mainsail, OctoPrint)
-3. Wipe the SD Card and put the bin file on the root of the SD card
+3. Wipe the SD Card and put the bin file in a new folder named STM32F4_UPDATE
 4. Insert SD card into your printer and power it on
 5. Copy configuration file to your Klipper interface
 6. Enjoy!
