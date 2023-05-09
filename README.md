@@ -7,11 +7,8 @@ This repository contains resources for the Ender-5 S1 from firmware configuratio
 
 #### Firmware + Configuration
 - [Marlin Source Code](https://github.com/CrealityOfficial/Ender-5S1)
-
   - [Marlin Configuration](https://github.com/MarlinFirmware/Configurations/tree/import-2.1.x/config/examples/Creality/Ender-5%20S1) 
-
 - [Klipper Source Code](https://github.com/CrealityOfficial/Creality_Sonic_Pad)
-
   - [Klipper Configuration](https://github.com/MrSpidercat/Ender5-S1/tree/main/config/klipper)
 
 #### Guides
